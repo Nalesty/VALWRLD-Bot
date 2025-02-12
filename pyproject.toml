@@ -1,0 +1,12 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "aiohttp>=3.11.12",
+    "discord-py>=2.4.0",
+    "openai>=1.61.1",
+    "python-dotenv>=1.0.1",
+    "twilio>=9.4.5",
+]
