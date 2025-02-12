@@ -1,0 +1,24 @@
+
+	•	Une commande pour afficher des informations sur le serveur
+	•	Une commande pour gérer les rôles
+	•	Des commandes de modération et admins (kick, ban, déplacer des channels et des rôles via commande, assigner temporairement un rôle ou copier un emoji d’un autre serveur à mon serveur ect.)
+	•	Des commandes pour jouer de la musique
+	•	Des commandes pour des mini-jeux (Blackjack, duel, Geo guesser [dans la ville de Quebec seulement] et Roche-papier-ciseaux)
+	•	Channels-Stats [Paramètres disponibles] (%userCount% : Nombre total d’utilisateurs sur votre serveur, %memberCount% : Nombre total de membres (pas de robots) sur votre serveur, %onlineUserCount% : Nombre total d’utilisateurs en ligne (dnd ou statut en ligne), sur votre serveur, %channelCount% : Nombre total de canaux sur votre serveur %role Count% : Nombre total de rôles sur votre serveur %botCount% : Nombre de robots sur votre serveur, %dndCount% : Nombre de membres (pas de robots) avec DND comme statut, %onlineMemberCount% : Nombre de membres (pas de robots) avec en ligne (et uniquement en ligne) comme statut
+	•	
+	•	%awayCount% : Nombre de membres (pas de bots) avec le statut absent %offlineCount% : Nombre de membres (pas de bots) avec le statut hors ligne %guildBoosts% : Montre combien de fois cette guilde a été boostée %boostLevel% : Affiche le niveau de boost actuel de cette guilde %boosterCount% : Nombre de boosters sur cette guilde %emojiCount% : Nombre d’emojis sur cette guilde %currentTime% : Heure et date actuelles
+	•	
+	•	%userWithRoleCount-<ID>% : Nombre de membres avec un rôle spécifique (remplacer “<ID>” par un identifiant de rôle réel)
+	•	
+	•	%onlineUserWithRoleCount-<ID>% : Nombre de membres ayant un rôle spécifique qui sont en ligne (remplacer “<ID>” par un identifiant de rôle réel)
+
+	•	Suggestion (L’autorisation pour les commandes suivantes doit être modifiée dans les paramètres de votre serveur : /Gérer-suggestion) [Salon de suggestion: Salon dans lequel ce module doit fonctionner, Create suggestions from messages in channel: If enabled, the bot will create thread under each suggestion, Reactions: Emojis with which the bot should react to a new suggestion, Thread-Name: need wrote the name, Send DM-Notifications: If enabled the creator and all commentators get a notification when something changes on a suggestion, DM-Status-Notification: This message gets send to the creator and all commentators when a suggestion gets updated and sendPNNotifications is enabled, Unanswered Suggestion-Message: This will be the messages that will get send when the user creates their suggestion and no admin has responded yet, Denied Suggestion-Message: The suggestion will be edited to this message, when an admin denies a suggestion and Approved Suggestion-Message: The suggestion will be edited to this message, when an admin approves a suggestion)
+	•	Welcome&Boost (choisir dans quelle salon les messages seront envoyés, Cela définit dans quel contenu la chaîne devrait être utilisée [Welcome (Quand un membre rejoint le serveur), Leave (quand un membre quitte le serveur), Boost (quand un membre boost le serveur)
+	•	Calendriers d’anniversair ( Notification-Channel: Channel in which "Happy birthday" -messages should get send. If this field is empty, the message will get send in the Birthday-Channel. Old birthday notifications won't get removed automatically from this channel, in contrast to the Birthday-Channel, Birthday-Embed: a messages (which will update itself) will be sent in the Birthday-Channel, which contains all Birthdays etc..)
+	•	Levels system (with full configuration [Message…] )
+	•	Stream notifications (give person with a specific role to add their channels: YouTube/Twitch/Facebook live or TikTok) and the gonna send a message to channels when their channels are in stream
+	•	Anti ghostping 
+	•	Invite tracking
+	•	AFK system
+	•	Join create voice call (rename the channel by “vc-user, give the permission of the owner of the vc to kick,mute,move.. person in their vc and more)
+	•	Modmails
